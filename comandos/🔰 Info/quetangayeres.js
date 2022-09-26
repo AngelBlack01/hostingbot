@@ -23,7 +23,7 @@ async run(client, message, args) {
       { name: '**🏳️‍🌈 Tu Porcentaje De Gay Es:**', value: `**<a:_:1016057216362618921> ${random}%  De Gay**` },
     )
     .setTimestamp()
-    .setFooter({ text: 'MrDxniezzz © 2022', iconURL: 'https://cdn.discordapp.com/attachments/1017639960502874132/1018583114584445110/Darkhush.png' });
+    .setFooter({ text: 'MrDxniezzz © 2022', iconURL: 'https://cdn.discordapp.com/attachments/920687521929764894/1024076611240345650/Gloom.png' });
 
   message.channel.send({ embeds: [embed] });
 
