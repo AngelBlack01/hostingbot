@@ -1,7 +1,7 @@
 {
-    "token": "OTc4OTMzNDc1NjI3Mzk3MTYx.GiYgsU.K_c4ITsvi5h-n9hSKdylVBK2rijW851jAnT8u8",
-    "prefix": "a!",
-    "mongodb": "mongodb://useef0pdnzpwhqgxtdwx:hcGlxXwB87Z0HLzhN9TE@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bezato5dgyldlj0?replicaSet=rs0",
+    "token": "MTAyNjQxNzMwODc5NDYyNjA3MQ.G-J9Xe.KhtpjnqcNoMvsFdC4BiPXUmgTqwOIjyoclRycA",
+    "prefix": "A!",
+    "mongodb": "mongodb://uc7t5jt3otspywz2rap0:POLzvWEq04HXT7gKJSFL@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b7hb83sqdkvit4e?replicaSet=rs0",
     "ownerIDS": ["728011543513530480"],
     "color": "#ff0000"
 }
